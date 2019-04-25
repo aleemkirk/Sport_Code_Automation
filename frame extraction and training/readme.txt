@@ -1,0 +1,1 @@
+to use getObj.py create directories for each distinct label in your annotation file. MAKE SURE YOU SPELL THEM CORRECTLY!!

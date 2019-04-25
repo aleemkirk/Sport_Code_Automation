@@ -1,0 +1,15 @@
+video_frames/frame0.jpg,195,228,534,586,rabbit
+video_frames/frame10.jpg,141,173,585,625,rabbit
+video_frames/frame15.jpg,116,168,593,574,rabbit
+video_frames/frame20.jpg,154,144,598,586,rabbit
+video_frames/frame29.jpg,147,173,637,604,rabbit
+video_frames/frame36.jpg,203,81,712,601,rabbit
+video_frames/frame39.jpg,177,76,719,637,rabbit
+video_frames/frame42.jpg,214,35,702,615,rabbit
+video_frames/frame47.jpg,211,22,663,629,rabbit
+video_frames/frame61.jpg,154,16,596,617,rabbit
+video_frames/frame79.jpg,157,76,683,629,rabbit
+video_frames/frame99.jpg,133,41,669,678,rabbit
+video_frames/frame104.jpg,152,60,645,651,rabbit
+video_frames/frame115.jpg,225,49,626,653,rabbit
+video_frames/frame131.jpg,230,60,650,634,rabbit
